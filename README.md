@@ -1,3 +1,3 @@
-# menu_hamburguesa
+# Menu Hamburguesa Responsive en JavaScript
 
-Vista previa del la pagina: https://alexischvz.github.io/menu_hamburguesa/
+Vista en vivo: https://alexischvz.github.io/menu_hamburguesa/
